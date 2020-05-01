@@ -1,5 +1,5 @@
 class Simple{
     public static void main(String args[]){
-        System. out. println("Hello Java git changes");
+        System. out. println("Hello Java git change 2");
     }
 }
